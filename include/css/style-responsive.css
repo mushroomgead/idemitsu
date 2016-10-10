@@ -1,0 +1,51 @@
+@media (max-width: 450px) {
+    .detail-left{
+        width: 100% !important;
+        margin-top: 5px;
+        float: left;
+        padding-right: 31px;
+        text-align: left;
+    }
+    .detail-right {
+        padding: 0px;
+        width: 100% !important; 
+    }
+    .page-register {
+        border: none;
+        margin: 0px 4px 0 4px;
+        padding: 0 10px 0 10px;
+    }
+    .detail-regis {
+        padding: 0px;
+        border-bottom: 1px dashed #BCBCBC;
+    }
+    .txtbox {
+        border: 1px solid #aaa;
+        padding: 5px 10px;
+        margin-bottom: 5px;
+        margin-right: 3px;
+        min-height: 15px;
+        width: 255px;
+    }
+    .radio-box {
+        width: 100%;
+        float: left;
+        padding-bottom: 8px;
+    }
+}
+@media (max-width: 767px) {
+
+}
+@media (min-width: 768px){
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+@media (min-width: 1200px) {
+
+}
